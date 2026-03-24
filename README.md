@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4f8a29b7-b026-4550-91e4-cfebadfe04d5" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f790b1f5-1d13-4a35-a605-218d27d837bf" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2a4d105c-525e-4cfc-97c3-e46a7894d908" />
+<img width="1108" height="724" alt="image" src="https://github.com/user-attachments/assets/4393afb8-4b51-468c-bd71-becf508dfa5a" />
+<img width="955" height="736" alt="image" src="https://github.com/user-attachments/assets/8a5f3e41-07cf-44b9-bdc8-9b9d351f83b5" />
+<img width="950" height="601" alt="image" src="https://github.com/user-attachments/assets/8836d6fd-8931-42e7-87ec-f509ea172de9" />
+<img width="868" height="614" alt="image" src="https://github.com/user-attachments/assets/71673c4b-365f-48eb-a108-d3e1aa68791f" />
+<img width="954" height="602" alt="image" src="https://github.com/user-attachments/assets/29d456cb-93ee-4153-b3c1-d052e0488e21" />
+<img width="857" height="430" alt="image" src="https://github.com/user-attachments/assets/62fceb39-888f-4fa3-94ff-cf65a6c05f5b" />
 
 ### Name:Rithesh S
 ### Register Number:212225220084
